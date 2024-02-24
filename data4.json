@@ -1,0 +1,19 @@
+[
+    {
+        "level1": "SourceSystem1",
+        "person": "CRM",
+        "kpi": 75
+    },
+    {
+        "level1": "SourceSystem1",
+        "level2": "raw.Address",
+        "person": "Address",
+        "kpi": 80
+    },
+    {
+        "level1": "SourceSystem1",
+        "level2": "raw.Machine",
+        "person": "Machine",
+        "kpi": 80
+    }
+]
