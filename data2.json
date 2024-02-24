@@ -1,0 +1,37 @@
+[
+	{
+		"level1": "SourceSystem1",
+		"person": "CRM",
+		"kpi": 75
+	},
+	{
+		"level1": "SourceSystem2",
+		"person": "ERP",
+		"kpi": 75
+	},
+	{
+		"level1": "SourceSystem1",
+		"level2": "raw.Address",
+		"person": "Address",
+		"kpi": 80
+	},
+	{
+		"level1": "SourceSystem1",
+		"level2": "raw.Machine",
+		"person": "Machine",
+		"kpi": 80
+	},
+	{
+		"level1": "SourceSystem2",
+		"level2": "raw.Customer",
+		"person": "Customer",
+		"kpi": 80
+	},
+	{
+		"level1": "SourceSystem1",
+		"level2": "raw.Machine",
+		"level3": "structured.Machine",
+		"person": "Machine",
+		"kpi": 50
+	}
+]
