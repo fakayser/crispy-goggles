@@ -31,7 +31,7 @@
 		"level1": "SourceSystem1",
 		"level2": "raw.Machine",
 		"level3": "structured.Machine",
-		"person": "Machine",
+		"person": "structured.Machine",
 		"kpi": 50
 	}
 ]
