@@ -33,5 +33,22 @@
 		"level3": "structured.Machine",
 		"person": "structured.Machine",
 		"kpi": 50
+	},
+	{
+		"level1": "SourceSystem1",
+		"level2": "raw.Machine",
+		"level3": "structured.Machine",
+		"level4": "core.Machine",
+		"person": "core.Machine",
+		"kpi": 50
+	},
+	{
+		"level1": "SourceSystem1",
+		"level2": "raw.Machine",
+		"level3": "structured.Machine",
+		"level4": "core.Machine",
+		"level5": "curated.Machine",
+		"person": "curated.Machine",
+		"kpi": 50
 	}
 ]
